@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKE9hxsPGyhE12HMPLVo9lAsHF7Jhxkv/b2KE8wutpzO+IJj2FUEYegukYgDMGovFAuo+DxkhoaMl6j+nCDAlg==",
+  "success": true,
+  "projectFilePath": "D:\\RND\\Test\\MigrateClassCreator\\MigrateClassCreator\\MigrateClassCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
